@@ -2,7 +2,7 @@
 #Parameter 'addonProduct': Technical name of the add-on product
 addonProduct: /VPCOE/PRODUCTRVCH
 #Parameter 'addonVersion': Technical version of the add-on product <product version>.<support package stack level>.<patch level>
-addonVersion: 1.2.0
+addonVersion: 1.1.0
 #Parameter 'repositories': contains one or multiple software component versions
 repositories:
     #Parameter 'name': Technical name of the software component
